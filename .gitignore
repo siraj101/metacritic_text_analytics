@@ -8,3 +8,5 @@ code/.ipynb_checkpoints/data_scraper_games-checkpoint.ipynb
 .idea/misc.xml
 .idea/metacritic_text_analytics.iml
 .idea/inspectionProfiles/profiles_settings.xml
+.DS_Store
+code/.ipynb_checkpoints/preprocessing-checkpoint.ipynb
