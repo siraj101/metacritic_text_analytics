@@ -1,0 +1,176 @@
+,word,topic,Group
+0,dark,Topic0,tone
+1,entertaining,Topic0,tone
+2,strategy,Topic0,strategy based gameplay
+3,mission,Topic0,game design
+4,easily,Topic0,difficulty
+5,battle,Topic0,skill based gameplay
+6,fan,Topic3,enjoyment
+7,chance,Topic0,luck based gameplay
+8,turnbased,Topic0,strategy based gameplay
+9,campaign,Topic0,game design
+10,openworld,Topic1,world building
+11,studio,Topic1,ignore
+12,title,Topic1,ignore
+13,stand,Topic1,ignore
+14,remains,Topic1,ignore
+15,full,Topic1,ignore
+16,artistic,Topic1,visuals
+17,despite,Topic1,ignore
+18,puzzle,Topic9,strategy based gameplay
+19,fully,Topic1,ignore
+20,technical,Topic2,technical performance
+21,issue,Topic2,technical performance
+22,edge,Topic2,ignore
+23,sniper,Topic2,skill based gameplay
+24,expected,Topic2,technical performance
+25,piece,Topic2,ignore
+26,problem,Topic2,technical performance
+27,rough,Topic2,technical performance
+28,interesting,Topic9,innovative
+29,flaw,Topic2,game design
+30,enjoy,Topic3,enjoyment
+31,extremely,Topic3,ignore
+32,exciting,Topic3,enjoyment
+33,animation,Topic3,visuals
+34,hour,Topic3,playthrough time
+35,tactical,Topic3,strategy based gameplay
+36,money,Topic3,value
+37,worth,Topic3,value
+38,aesthetic,Topic3,visuals
+39,combat,Topic4,skill based gameplay
+40,system,Topic4,game design
+41,world,Topic4,world building
+42,narrative,Topic4,narrative
+43,element,Topic4,game design
+44,hard,Topic6,difficulty
+45,experience,Topic19,game design
+46,character,Topic18,narrative
+47,exploration,Topic4,world building
+48,lost,Topic5,world building
+49,space,Topic5,world building
+50,fantasy,Topic5,world building
+51,final,Topic5,ignore
+52,remaster,Topic5,technical performance
+53,polish,Topic5,technical performance
+54,intriguing,Topic5,innovative
+55,visuals,Topic5,visuals
+56,version,Topic16,ignore
+57,seem,Topic5,ignore
+58,survival,Topic6,difficulty
+59,pace,Topic6,playthrough time
+60,mode,Topic6,game design
+61,boring,Topic6,enjoyment
+62,dlc,Topic6,ignore
+63,cute,Topic6,tone
+64,positive,Topic6,ignore
+65,package,Topic6,ignore
+66,storyline,Topic6,narrative
+67,far,Topic7,ignore
+68,may,Topic7,ignore
+69,shooter,Topic11,skill based gameplay
+70,type,Topic7,ignore
+71,playthrough,Topic7,playthrough time
+72,action,Topic7,skill based gameplay
+73,mostly,Topic7,ignore
+74,sort,Topic7,ignore
+75,cry,Topic7,tone
+76,vr,Topic8,game design
+77,trying,Topic8,ignore
+78,sadly,Topic8,ignore
+79,fighting,Topic8,skill based gameplay
+80,review,Topic8,ignore
+81,save,Topic8,ignore
+82,although,Topic8,ignore
+83,opportunity,Topic8,ignore
+84,case,Topic8,ignore
+85,happy,Topic8,tone
+86,gameplay,Topic9,game design
+87,design,Topic9,game design
+88,adventure,Topic9,game design
+89,mechanic,Topic9,game design
+90,story,Topic18,narrative
+91,fun,Topic9,enjoyment
+92,work,Topic9,ignore
+93,bad,Topic10,ignore
+94,management,Topic10,strategy based gameplay
+95,call,Topic10,ignore
+96,clearly,Topic10,ignore
+97,lack,Topic10,ignore
+98,given,Topic10,ignore
+99,due,Topic10,ignore
+100,loved,Topic10,ignore
+101,beyond,Topic10,ignore
+102,decision,Topic10,strategy based gameplay
+103,multiplayer,Topic11,multiplayer
+104,unfortunately,Topic11,ignore
+105,exactly,Topic11,ignore
+106,classic,Topic11,tone
+107,single,Topic11,game design
+108,coop,Topic11,multiplayer
+109,inspiration,Topic11,innovative
+110,traditional,Topic11,innovative
+111,roleplaying,Topic11,game design
+112,left,Topic12,ignore
+113,fight,Topic12,skill based gameplay
+114,wanting,Topic12,ignore
+115,thought,Topic12,ignore
+116,likely,Topic12,ignore
+117,jrpg,Topic12,game design
+118,genius,Topic12,innovative
+119,simulator,Topic12,game design
+120,ago,Topic12,ignore
+121,le,Topic13,ignore
+122,particularly,Topic13,ignore
+123,refreshing,Topic13,tone
+124,pleasant,Topic13,tone
+125,taste,Topic13,tone
+126,niche,Topic13,tone
+127,released,Topic13,ignore
+128,successful,Topic13,ignore
+129,pleasure,Topic13,enjoyment
+130,worked,Topic13,ignore
+131,genre,Topic14,game design
+132,recommend,Topic14,ignore
+133,nt,Topic14,ignore
+134,music,Topic14,sound track
+135,hero,Topic14,narrative
+136,memory,Topic15,ignore
+137,nice,Topic15,tone
+138,shine,Topic15,ignore
+139,interaction,Topic15,game design
+140,surprising,Topic15,innovative
+141,recent,Topic15,ignore
+142,satisfy,Topic15,enjoyment
+143,understand,Topic15,ignore
+144,part,Topic15,ignore
+145,complete,Topic16,playthrough time
+146,pc,Topic16,technical performance
+147,found,Topic16,ignore
+148,challenging,Topic16,difficulty
+149,match,Topic16,ignore
+150,run,Topic16,playthrough time
+151,added,Topic16,innovative
+152,interested,Topic16,enjoyment
+153,support,Topic16,ignore
+154,series,Topic17,innovative
+155,entry,Topic17,innovative
+156,franchise,Topic17,innovative
+157,attention,Topic17,enjoyment
+158,age,Topic17,innovative
+159,effect,Topic17,enjoyment
+160,fascinating,Topic17,innovative
+161,first,Topic17,innovative
+162,life,Topic18,narrative
+163,going,Topic18,ignore
+164,pretty,Topic18,visuals
+165,often,Topic18,ignore
+166,gorgeous,Topic18,visuals
+167,instead,Topic18,ignore
+168,time,Topic19,playthrough time
+169,feel,Topic19,ignore
+170,little,Topic19,ignore
+171,make,Topic19,ignore
+172,even,Topic19,ignore
+173,get,Topic19,ignore
+174,play,Topic19,enjoyment
